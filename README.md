@@ -24,7 +24,7 @@ ___
 	  - Level 2: **4 MiB (512 KiB/core)**.
 	  - Level 3: **8 MiB**.
 9)  Cвязность кэш-памяти последнего уровня (общая/не общая
-    для какого числа ядер): **не общая**.git  (corrected)
+    для какого числа ядер): **не общая**.  (corrected)
 10)  Диаграмма всех уровней кэш-памяти:    
  
 ![report.jpg](https://raw.githubusercontent.com/yurec26/spbstu_1/master/%D1%81%D0%B2%D1%8F%D0%B7%D0%BD%D0%BE%D1%81%D1%82%D1%8C%20%D0%BA%D1%8D%D1%88%D0%B0.jpg)
